@@ -1,0 +1,441 @@
+Country,Industry,Name
+Algeria,Food & Beverage,1
+Argentina,Diversified,1
+Argentina,Energy,2
+Argentina,Healthcare,1
+Argentina,Real Estate,1
+Argentina,Technology,1
+Australia,Automotive,1
+Australia,Diversified,1
+Australia,Fashion & Retail,5
+Australia,Finance & Investments,4
+Australia,Food & Beverage,2
+Australia,Gambling & Casinos,1
+Australia,Logistics,1
+Australia,Manufacturing,3
+Australia,Media & Entertainment,2
+Australia,Metals & Mining,7
+Australia,Real Estate,7
+Australia,Technology,8
+Australia,Telecom,1
+Austria,Automotive,2
+Austria,Construction & Engineering,1
+Austria,Diversified,1
+Austria,Fashion & Retail,2
+Austria,Food & Beverage,1
+Austria,Gambling & Casinos,1
+Austria,Logistics,1
+Austria,Manufacturing,1
+Austria,Real Estate,1
+Barbados,Fashion & Retail,1
+Belgium,Finance & Investments,1
+Belgium,Manufacturing,1
+Belgium,Real Estate,1
+Belize,Finance & Investments,1
+Brazil,Diversified,10
+Brazil,Energy,2
+Brazil,Fashion & Retail,7
+Brazil,Finance & Investments,14
+Brazil,Food & Beverage,8
+Brazil,Healthcare,7
+Brazil,Manufacturing,5
+Brazil,Media & Entertainment,3
+Brazil,Real Estate,1
+Brazil,Technology,1
+Bulgaria,Diversified,2
+Canada,Construction & Engineering,1
+Canada,Diversified,2
+Canada,Energy,2
+Canada,Fashion & Retail,8
+Canada,Finance & Investments,11
+Canada,Food & Beverage,3
+Canada,Gambling & Casinos,1
+Canada,Manufacturing,4
+Canada,Media & Entertainment,3
+Canada,Metals & Mining,1
+Canada,Real Estate,8
+Canada,Technology,11
+Canada,Telecom,1
+Chile,Diversified,2
+Chile,Fashion & Retail,1
+Chile,Finance & Investments,2
+Chile,Metals & Mining,2
+China,Automotive,17
+China,Construction & Engineering,5
+China,Diversified,19
+China,Energy,19
+China,Fashion & Retail,26
+China,Finance & Investments,10
+China,Food & Beverage,44
+China,Healthcare,69
+China,Logistics,6
+China,Manufacturing,148
+China,Media & Entertainment,10
+China,Metals & Mining,14
+China,Real Estate,31
+China,Service,9
+China,Technology,76
+China,Telecom,6
+Colombia,Finance & Investments,3
+Colombia,Food & Beverage,1
+Cyprus,Fashion & Retail,2
+Cyprus,Logistics,1
+Cyprus,Real Estate,1
+Cyprus,Service,3
+Cyprus,Technology,2
+Czechia,Energy,1
+Czechia,Finance & Investments,2
+Czechia,Food & Beverage,1
+Czechia,Gambling & Casinos,1
+Czechia,Metals & Mining,1
+Czechia,Real Estate,1
+Czechia,Technology,2
+Denmark,Fashion & Retail,1
+Denmark,Healthcare,1
+Denmark,Logistics,1
+Denmark,Manufacturing,6
+Egypt,Construction & Engineering,1
+Egypt,Diversified,3
+Egypt,Fashion & Retail,1
+Egypt,Telecom,1
+Estonia,Finance & Investments,1
+Eswatini (Swaziland),Fashion & Retail,1
+Finland,Diversified,1
+Finland,Energy,1
+Finland,Healthcare,1
+Finland,Manufacturing,4
+France,Construction & Engineering,2
+France,Diversified,3
+France,Energy,1
+France,Fashion & Retail,7
+France,Finance & Investments,4
+France,Food & Beverage,6
+France,Healthcare,7
+France,Logistics,2
+France,Manufacturing,1
+France,Real Estate,1
+France,Service,2
+France,Technology,2
+France,Telecom,2
+Georgia,Finance & Investments,2
+Germany,Automotive,8
+Germany,Construction & Engineering,1
+Germany,Diversified,1
+Germany,Fashion & Retail,28
+Germany,Finance & Investments,12
+Germany,Food & Beverage,7
+Germany,Gambling & Casinos,1
+Germany,Healthcare,18
+Germany,Logistics,1
+Germany,Manufacturing,23
+Germany,Media & Entertainment,8
+Germany,Real Estate,3
+Germany,Service,1
+Germany,Sports,1
+Germany,Technology,11
+Greece,Diversified,1
+Greece,Energy,1
+Greece,Finance & Investments,1
+Greece,Metals & Mining,1
+Guernsey,Finance & Investments,1
+Hong Kong,Automotive,3
+Hong Kong,Diversified,1
+Hong Kong,Energy,3
+Hong Kong,Fashion & Retail,2
+Hong Kong,Finance & Investments,2
+Hong Kong,Food & Beverage,1
+Hong Kong,Gambling & Casinos,2
+Hong Kong,Healthcare,4
+Hong Kong,Logistics,2
+Hong Kong,Manufacturing,12
+Hong Kong,Real Estate,27
+Hong Kong,Technology,4
+Hong Kong,Telecom,1
+Hungary,Diversified,2
+Iceland,Diversified,1
+Iceland,Technology,1
+India,Automotive,9
+India,Construction & Engineering,5
+India,Diversified,15
+India,Energy,1
+India,Fashion & Retail,13
+India,Finance & Investments,10
+India,Food & Beverage,9
+India,Healthcare,31
+India,Manufacturing,29
+India,Media & Entertainment,1
+India,Metals & Mining,3
+India,Real Estate,9
+India,Service,4
+India,Technology,16
+India,Telecom,1
+Indonesia,Diversified,7
+Indonesia,Energy,4
+Indonesia,Fashion & Retail,1
+Indonesia,Finance & Investments,4
+Indonesia,Food & Beverage,1
+Indonesia,Manufacturing,5
+Indonesia,Media & Entertainment,3
+Indonesia,Real Estate,1
+Indonesia,Technology,2
+Ireland,Construction & Engineering,1
+Ireland,Finance & Investments,3
+Ireland,Manufacturing,1
+Ireland,Technology,1
+Ireland,Telecom,1
+Israel,Automotive,2
+Israel,Diversified,1
+Israel,Finance & Investments,3
+Israel,Food & Beverage,2
+Israel,Gambling & Casinos,1
+Israel,Healthcare,1
+Israel,Manufacturing,1
+Israel,Media & Entertainment,3
+Israel,Metals & Mining,1
+Israel,Real Estate,2
+Israel,Service,2
+Israel,Technology,5
+Israel,Telecom,1
+Italy,Automotive,2
+Italy,Construction & Engineering,4
+Italy,Diversified,3
+Italy,Energy,1
+Italy,Fashion & Retail,21
+Italy,Finance & Investments,2
+Italy,Food & Beverage,8
+Italy,Healthcare,4
+Italy,Manufacturing,5
+Italy,Metals & Mining,1
+Japan,Automotive,2
+Japan,Fashion & Retail,10
+Japan,Food & Beverage,2
+Japan,Gambling & Casinos,2
+Japan,Healthcare,2
+Japan,Logistics,1
+Japan,Manufacturing,1
+Japan,Media & Entertainment,3
+Japan,Real Estate,3
+Japan,Service,1
+Japan,Technology,9
+Japan,Telecom,2
+Kazakhstan,Finance & Investments,4
+Kazakhstan,Metals & Mining,2
+Lebanon,Construction & Engineering,2
+Lebanon,Real Estate,1
+Lebanon,Service,1
+Lebanon,Telecom,2
+Liechtenstein,Healthcare,1
+Macau,Real Estate,1
+Malaysia,Construction & Engineering,1
+Malaysia,Diversified,2
+Malaysia,Fashion & Retail,1
+Malaysia,Finance & Investments,1
+Malaysia,Food & Beverage,1
+Malaysia,Gambling & Casinos,2
+Malaysia,Logistics,1
+Malaysia,Manufacturing,3
+Malaysia,Metals & Mining,1
+Malaysia,Real Estate,1
+Malaysia,Telecom,1
+Mexico,Construction & Engineering,1
+Mexico,Diversified,2
+Mexico,Fashion & Retail,1
+Mexico,Finance & Investments,2
+Mexico,Food & Beverage,2
+Mexico,Manufacturing,1
+Mexico,Media & Entertainment,1
+Mexico,Metals & Mining,2
+Mexico,Service,1
+Monaco,Fashion & Retail,2
+Monaco,Finance & Investments,1
+Morocco,Diversified,1
+Morocco,Finance & Investments,1
+Nepal,Diversified,1
+Netherlands,Food & Beverage,1
+Netherlands,Manufacturing,2
+Netherlands,Media & Entertainment,2
+Netherlands,Real Estate,1
+Netherlands,Service,1
+Netherlands,Technology,3
+New Zealand,Finance & Investments,2
+New Zealand,Media & Entertainment,1
+Nigeria,Diversified,2
+Nigeria,Manufacturing,1
+Norway,Diversified,3
+Norway,Fashion & Retail,2
+Norway,Finance & Investments,2
+Norway,Food & Beverage,1
+Norway,Logistics,1
+Norway,Real Estate,1
+Norway,Service,2
+Oman,Diversified,1
+Peru,Diversified,1
+Peru,Finance & Investments,1
+Peru,Metals & Mining,1
+Philippines,Diversified,10
+Philippines,Food & Beverage,3
+Philippines,Logistics,1
+Philippines,Real Estate,1
+Philippines,Telecom,1
+Poland,Diversified,1
+Poland,Fashion & Retail,1
+Poland,Finance & Investments,3
+Poland,Healthcare,1
+Poland,Media & Entertainment,1
+Portugal,Diversified,1
+Qatar,Diversified,1
+Qatar,Finance & Investments,1
+Romania,Fashion & Retail,2
+Romania,Finance & Investments,1
+Romania,Technology,3
+Russia,Automotive,1
+Russia,Construction & Engineering,4
+Russia,Diversified,4
+Russia,Energy,14
+Russia,Fashion & Retail,3
+Russia,Finance & Investments,11
+Russia,Food & Beverage,2
+Russia,Healthcare,3
+Russia,Logistics,2
+Russia,Manufacturing,9
+Russia,Metals & Mining,13
+Russia,Real Estate,3
+Russia,Service,1
+Russia,Technology,2
+Russia,Telecom,2
+Singapore,Diversified,3
+Singapore,Fashion & Retail,1
+Singapore,Finance & Investments,3
+Singapore,Food & Beverage,3
+Singapore,Healthcare,2
+Singapore,Manufacturing,3
+Singapore,Media & Entertainment,2
+Singapore,Real Estate,7
+Singapore,Technology,1
+Slovakia,Finance & Investments,1
+Slovakia,Real Estate,1
+South Africa,Fashion & Retail,1
+South Africa,Finance & Investments,1
+South Africa,Media & Entertainment,1
+South Africa,Metals & Mining,2
+South Korea,Automotive,1
+South Korea,Construction & Engineering,1
+South Korea,Diversified,5
+South Korea,Fashion & Retail,5
+South Korea,Finance & Investments,4
+South Korea,Food & Beverage,1
+South Korea,Healthcare,2
+South Korea,Logistics,1
+South Korea,Manufacturing,3
+South Korea,Media & Entertainment,5
+South Korea,Service,1
+South Korea,Technology,10
+South Korea,Telecom,1
+Spain,Construction & Engineering,4
+Spain,Fashion & Retail,6
+Spain,Finance & Investments,4
+Spain,Food & Beverage,1
+Spain,Gambling & Casinos,1
+Spain,Healthcare,2
+Spain,Manufacturing,2
+Spain,Metals & Mining,2
+Spain,Real Estate,1
+Spain,Service,3
+St. Kitts and Nevis,Fashion & Retail,1
+Sweden,Diversified,8
+Sweden,Fashion & Retail,5
+Sweden,Finance & Investments,12
+Sweden,Food & Beverage,3
+Sweden,Gambling & Casinos,2
+Sweden,Healthcare,1
+Sweden,Manufacturing,1
+Sweden,Media & Entertainment,2
+Sweden,Real Estate,4
+Sweden,Service,1
+Sweden,Technology,3
+Switzerland,Automotive,1
+Switzerland,Construction & Engineering,1
+Switzerland,Fashion & Retail,2
+Switzerland,Finance & Investments,8
+Switzerland,Food & Beverage,2
+Switzerland,Healthcare,13
+Switzerland,Logistics,1
+Switzerland,Manufacturing,7
+Switzerland,Metals & Mining,2
+Switzerland,Service,1
+Switzerland,Technology,2
+Taiwan,Automotive,1
+Taiwan,Diversified,2
+Taiwan,Fashion & Retail,3
+Taiwan,Finance & Investments,7
+Taiwan,Food & Beverage,5
+Taiwan,Logistics,3
+Taiwan,Manufacturing,7
+Taiwan,Metals & Mining,1
+Taiwan,Real Estate,5
+Taiwan,Technology,11
+Tanzania,Diversified,1
+Thailand,Diversified,8
+Thailand,Energy,2
+Thailand,Finance & Investments,6
+Thailand,Food & Beverage,3
+Thailand,Healthcare,2
+Thailand,Manufacturing,2
+Thailand,Media & Entertainment,1
+Thailand,Real Estate,4
+Turkey,Construction & Engineering,2
+Turkey,Diversified,13
+Turkey,Fashion & Retail,2
+Turkey,Food & Beverage,2
+Turkey,Healthcare,1
+Turkey,Manufacturing,2
+Turkey,Media & Entertainment,1
+Turkey,Telecom,1
+Ukraine,Diversified,3
+Ukraine,Finance & Investments,1
+Ukraine,Metals & Mining,4
+United Arab Emirates,Automotive,1
+United Arab Emirates,Diversified,1
+United Arab Emirates,Real Estate,1
+United Arab Emirates,Technology,1
+United Kingdom,Construction & Engineering,1
+United Kingdom,Diversified,4
+United Kingdom,Energy,1
+United Kingdom,Fashion & Retail,8
+United Kingdom,Finance & Investments,9
+United Kingdom,Food & Beverage,2
+United Kingdom,Gambling & Casinos,2
+United Kingdom,Healthcare,1
+United Kingdom,Manufacturing,5
+United Kingdom,Media & Entertainment,2
+United Kingdom,Metals & Mining,1
+United Kingdom,Real Estate,4
+United Kingdom,Sports,1
+United Kingdom,Technology,3
+United Kingdom,Telecom,2
+United States,Automotive,15
+United States,Construction & Engineering,5
+United States,Diversified,14
+United States,Energy,31
+United States,Fashion & Retail,51
+United States,Finance & Investments,183
+United States,Food & Beverage,61
+United States,Gambling & Casinos,6
+United States,Healthcare,29
+United States,Logistics,6
+United States,Manufacturing,24
+United States,Media & Entertainment,42
+United States,Metals & Mining,2
+United States,Real Estate,42
+United States,Service,18
+United States,Sports,23
+United States,Technology,133
+United States,Telecom,4
+Uruguay,Finance & Investments,2
+Venezuela,Finance & Investments,1
+Vietnam,Automotive,1
+Vietnam,Diversified,1
+Vietnam,Finance & Investments,1
+Vietnam,Food & Beverage,1
+Vietnam,Manufacturing,1
+Vietnam,Real Estate,1
