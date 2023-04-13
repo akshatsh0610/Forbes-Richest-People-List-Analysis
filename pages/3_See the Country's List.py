@@ -7,18 +7,16 @@ data=Path(__file__).parents[1] / 'pages/forbes_richman.csv'
 
 df=pd.read_csv(data,encoding='latin-1')
 
-import sys
-class Foobar:
-    pass
-def str_to_class(str):
-    return getattr(sys.modules[__name__], str)
+
 
 st.markdown("# Enter the name of country")
-title = st.text_input('Please enter country', 'Country')
-s=str_to_class(title)
+s = st.text_input('Please enter country', 'Country')
 if s=='Country' or s=="":
     st.write('')
 else:
-    if s in df['Country']:
+    if s in df['Country'].values:
+        # st.markdown(type(s))
         df1=df[df['Country']==s]
         st.table(df1)
+    else:
+        st.markdown("# No data present")
